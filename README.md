@@ -1,2 +1,2 @@
-# Exercicio-Womakerscode
-Exercício do curso da Womakers Code
+# Exercicios-Womakerscode
+Exercícios realizados durante o Bootcamp da WomakersCode
